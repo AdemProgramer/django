@@ -6,7 +6,7 @@ python:
   - 3.10
 env:
   global:
-    - PIPENV_VEN_IN_PROJECT=1
+    - PIPENV_VENV_IN_PROJECT=1
     - PIPENV_IGNORE_VIRTUALENVS=1
 
 install:
